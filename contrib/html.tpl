@@ -6,6 +6,7 @@
     <style>
       * {
         font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
       }
       h1 {
         text-align: center;
